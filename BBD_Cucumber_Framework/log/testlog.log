@@ -1,0 +1,633 @@
+2022-03-28 19:24:31,727 - Framework -INFO - ******** Launching browser*********
+2022-03-28 19:24:31,897 - Framework -INFO - ******** Opening URL*********
+2022-03-28 19:24:33,739 - Framework -INFO - ******** Providing login details*********
+2022-03-28 19:28:30,914 - Framework -INFO - ******** Launching browser*********
+2022-03-28 19:28:31,031 - Framework -INFO - ******** Opening URL*********
+2022-03-28 19:28:32,947 - Framework -INFO - ******** Providing login details*********
+2022-03-28 19:38:55,446 - Framework -INFO - ******** Launching browser*********
+2022-03-28 19:38:55,643 - Framework -INFO - ******** Opening URL*********
+2022-03-28 19:38:58,909 - Framework -INFO - ******** Providing login details*********
+2022-03-28 19:40:38,896 - Framework -INFO - ******** Launching browser*********
+2022-03-28 19:40:39,069 - Framework -INFO - ******** Opening URL*********
+2022-03-28 19:40:40,886 - Framework -INFO - ******** Providing login details*********
+2022-03-28 22:00:39,973 - Framework -INFO - ******** Launching browser*********
+2022-03-28 22:00:40,094 - Framework -INFO - ******** Opening URL*********
+2022-03-28 23:11:15,953 - Framework -INFO - ******** Launching browser*********
+2022-03-28 23:11:16,074 - Framework -INFO - ******** Opening URL*********
+2022-03-28 23:12:38,719 - Framework -INFO - ******** Providing login details*********
+2022-03-28 23:15:16,100 - Framework -INFO - ******** Launching browser*********
+2022-03-28 23:15:16,302 - Framework -INFO - ******** Opening URL*********
+2022-03-28 23:15:49,800 - Framework -INFO - ******** Providing login details*********
+2022-03-28 23:15:52,177 - Framework -INFO - ******** started login*********
+2022-03-28 23:15:57,262 - Framework -INFO - ********closing browser********
+2022-03-28 23:16:35,504 - Framework -INFO - ******** Launching browser*********
+2022-03-28 23:16:35,699 - Framework -INFO - ******** Opening URL*********
+2022-03-28 23:17:13,526 - Framework -INFO - ******** Providing login details*********
+2022-03-28 23:17:15,832 - Framework -INFO - ******** started login*********
+2022-03-28 23:17:20,880 - Framework -INFO - ********closing browser********
+2022-03-29 09:57:49,544 - Framework -INFO - ******** Launching browser*********
+2022-03-29 09:57:49,669 - Framework -INFO - ******** Opening URL*********
+2022-03-29 09:57:51,582 - Framework -INFO - ******** Providing login details*********
+2022-03-29 09:57:53,954 - Framework -INFO - ******** started login*********
+2022-03-29 09:57:59,074 - Framework -INFO - ********closing browser********
+2022-03-29 10:05:34,424 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:05:34,664 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:05:36,860 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:05:39,366 - Framework -INFO - ******** started login*********
+2022-03-29 10:05:44,446 - Framework -INFO - ********closing browser********
+2022-03-29 10:16:12,149 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:16:12,348 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:16:14,685 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:16:17,094 - Framework -INFO - ******** started login*********
+2022-03-29 10:16:22,172 - Framework -INFO - ********closing browser********
+2022-03-29 10:17:12,101 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:17:12,244 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:17:14,121 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:17:16,395 - Framework -INFO - ******** started login*********
+2022-03-29 10:17:21,480 - Framework -INFO - ********closing browser********
+2022-03-29 10:18:14,275 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:18:14,421 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:18:16,747 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:21:27,135 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:21:27,307 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:21:29,565 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:24:27,622 - Framework -INFO - ******** Launching browser*********
+2022-03-29 10:24:27,764 - Framework -INFO - ******** Opening URL*********
+2022-03-29 10:24:29,662 - Framework -INFO - ******** Providing login details*********
+2022-03-29 10:24:31,936 - Framework -INFO - ******** started login*********
+2022-03-29 10:24:37,006 - Framework -INFO - ********closing browser********
+2022-03-29 10:28:20,337 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 10:28:20,500 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 10:28:22,279 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 10:28:22,536 - Framework -INFO - Started login has successfully!
+2022-03-29 10:28:27,615 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 10:54:26,066 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 10:54:26,202 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 10:54:28,828 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 10:54:29,085 - Framework -INFO - Started login has successfully!
+2022-03-29 10:54:34,206 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 10:55:00,254 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 10:55:00,405 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 10:55:02,255 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 10:55:02,551 - Framework -INFO - Started login has successfully!
+2022-03-29 10:55:07,671 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 10:55:34,852 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 10:55:35,006 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 10:55:36,915 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 10:55:37,168 - Framework -INFO - Started login has successfully!
+2022-03-29 10:55:42,247 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 11:03:26,196 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 11:03:26,329 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 11:03:28,366 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 11:03:28,766 - Framework -INFO - Started login has successfully!
+2022-03-29 11:03:33,885 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 11:10:49,175 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 11:10:49,301 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 11:10:51,760 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 11:10:52,009 - Framework -INFO - Started login has successfully!
+2022-03-29 11:10:57,108 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 17:54:15,870 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:05:39,710 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:05:39,894 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:05:47,407 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:05:47,752 - Framework -INFO - Started login has successfully!
+2022-03-29 18:05:52,820 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:18:43,250 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:18:43,417 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:18:45,847 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:18:46,110 - Framework -INFO - Started login has successfully!
+2022-03-29 18:18:51,169 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:20:18,343 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:20:18,511 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:20:20,577 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:20:20,907 - Framework -INFO - Started login has successfully!
+2022-03-29 18:20:25,969 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:24:40,002 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:24:40,211 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:24:43,139 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:24:43,520 - Framework -INFO - Started login has successfully!
+2022-03-29 18:24:48,580 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:25:04,211 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:33:54,008 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:33:54,144 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:33:56,930 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:33:57,298 - Framework -INFO - Started login has successfully!
+2022-03-29 18:34:02,362 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:34:18,792 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-29 18:49:11,413 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-29 18:49:11,580 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-29 18:49:14,940 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-29 18:49:15,277 - Framework -INFO - Started login has successfully!
+2022-03-29 18:49:20,337 - Framework -INFO - ******** Login Passed*********
+2022-03-29 18:49:36,175 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 12:26:20,552 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 12:26:20,746 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 12:26:23,090 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 12:26:23,438 - Framework -INFO - Started login has successfully!
+2022-03-30 13:02:50,256 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:02:50,431 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:02:53,492 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:02:53,816 - Framework -INFO - Started login has successfully!
+2022-03-30 13:02:58,864 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:02:59,433 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:02:59,437 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:03:02,403 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:03:02,699 - Framework -INFO - Started login has successfully!
+2022-03-30 13:03:07,760 - Framework -INFO - ******** Login Passed*********
+2022-03-30 13:03:23,520 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:05:20,518 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:05:20,686 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:05:23,650 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:05:23,963 - Framework -INFO - Started login has successfully!
+2022-03-30 13:05:29,012 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:05:40,741 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:05:40,765 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:05:43,709 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:05:43,954 - Framework -INFO - Started login has successfully!
+2022-03-30 13:05:49,012 - Framework -INFO - ******** Login Passed*********
+2022-03-30 13:06:04,942 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:06:25,365 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:06:25,529 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:06:28,279 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:06:28,628 - Framework -INFO - Started login has successfully!
+2022-03-30 13:06:33,679 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:06:44,955 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:06:44,972 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:06:47,967 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:06:48,260 - Framework -INFO - Started login has successfully!
+2022-03-30 13:06:53,317 - Framework -INFO - ******** Login Passed*********
+2022-03-30 13:07:08,713 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:12:54,274 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:12:54,477 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:12:57,412 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:12:57,833 - Framework -INFO - Started login has successfully!
+2022-03-30 13:13:02,880 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:13:12,206 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:13:12,211 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:13:14,758 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:13:15,036 - Framework -INFO - Started login has successfully!
+2022-03-30 13:13:20,094 - Framework -INFO - ******** Login Passed*********
+2022-03-30 13:13:36,261 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:27:26,279 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:27:26,466 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:27:30,372 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:27:30,759 - Framework -INFO - Started login has successfully!
+2022-03-30 13:27:35,817 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 13:27:46,695 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 13:27:46,709 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 13:27:49,719 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 13:27:50,041 - Framework -INFO - Started login has successfully!
+2022-03-30 13:27:55,103 - Framework -INFO - ******** Login Passed*********
+2022-03-30 13:28:11,596 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:07:36,078 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:07:36,205 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:07:39,241 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:07:39,575 - Framework -INFO - Started login has successfully!
+2022-03-30 14:07:44,635 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:07:54,589 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:08:47,425 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:08:47,624 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:08:50,513 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:08:50,806 - Framework -INFO - Started login has successfully!
+2022-03-30 14:08:55,857 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:09:04,325 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:09:04,977 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:09:04,984 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:09:07,494 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:09:07,715 - Framework -INFO - Started login has successfully!
+2022-03-30 14:09:12,770 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:09:28,306 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:12:14,205 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:12:14,362 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:12:16,937 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:12:17,275 - Framework -INFO - Started login has successfully!
+2022-03-30 14:12:22,324 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:12:24,021 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:12:24,265 - Framework -INFO - Started login has successfully!
+2022-03-30 14:12:29,313 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:12:37,014 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:13:05,971 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:13:06,204 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:13:08,823 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:13:09,186 - Framework -INFO - Started login has successfully!
+2022-03-30 14:13:14,239 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:13:15,109 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:13:15,383 - Framework -INFO - Started login has successfully!
+2022-03-30 14:13:20,428 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:13:27,631 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:13:28,322 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:13:28,324 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:13:30,650 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:13:30,889 - Framework -INFO - Started login has successfully!
+2022-03-30 14:13:35,946 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:13:52,042 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:20:41,696 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:20:41,881 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:20:46,521 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:20:46,841 - Framework -INFO - Started login has successfully!
+2022-03-30 14:20:51,901 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:20:53,778 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:20:54,034 - Framework -INFO - Started login has successfully!
+2022-03-30 14:20:59,078 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:21:27,691 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:21:28,299 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:21:28,305 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:21:33,720 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:21:33,969 - Framework -INFO - Started login has successfully!
+2022-03-30 14:21:39,027 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:22:02,988 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:24:22,135 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:24:22,344 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:24:35,856 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:24:36,166 - Framework -INFO - Started login has successfully!
+2022-03-30 14:24:41,226 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:24:43,087 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:24:43,331 - Framework -INFO - Started login has successfully!
+2022-03-30 14:24:48,375 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 14:25:02,602 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 14:25:23,954 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 14:25:27,571 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:25:28,208 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:25:28,211 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:25:40,809 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:25:41,039 - Framework -INFO - Started login has successfully!
+2022-03-30 14:25:46,103 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:26:26,691 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:27:18,517 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:27:18,669 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:27:31,122 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:27:31,409 - Framework -INFO - Started login has successfully!
+2022-03-30 14:27:36,463 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:27:38,602 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:27:38,802 - Framework -INFO - Started login has successfully!
+2022-03-30 14:27:43,849 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 14:27:56,662 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 14:28:09,602 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 14:28:12,589 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:28:13,224 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:28:13,230 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:28:31,518 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:28:31,715 - Framework -INFO - Started login has successfully!
+2022-03-30 14:28:36,778 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:29:00,755 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:32:46,768 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:32:46,961 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:33:00,923 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:33:01,236 - Framework -INFO - Started login has successfully!
+2022-03-30 14:33:06,292 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 14:33:17,301 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 14:33:31,908 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 14:33:36,493 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:33:37,153 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:33:37,170 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:33:52,781 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:33:53,047 - Framework -INFO - Started login has successfully!
+2022-03-30 14:33:58,107 - Framework -INFO - ******** Login Passed*********
+2022-03-30 14:34:17,480 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:54:14,563 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:54:14,716 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:54:29,267 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:54:29,582 - Framework -INFO - Started login has successfully!
+2022-03-30 14:54:34,632 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 14:54:52,513 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 14:55:05,758 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 14:55:08,970 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 14:55:09,567 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 14:55:09,568 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 14:55:33,532 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 14:55:33,731 - Framework -INFO - Started login has successfully!
+2022-03-30 15:39:03,290 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:39:03,520 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:39:09,381 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:39:09,713 - Framework -INFO - Started login has successfully!
+2022-03-30 15:39:14,765 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 15:39:20,729 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 15:39:26,226 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 15:39:27,701 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 15:39:28,339 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:39:28,344 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:39:32,468 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:39:32,744 - Framework -INFO - Started login has successfully!
+2022-03-30 15:39:38,351 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:39:38,356 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:39:43,631 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:39:43,970 - Framework -INFO - Started login has successfully!
+2022-03-30 15:39:49,027 - Framework -INFO - ******** Login Passed*********
+2022-03-30 15:40:05,916 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 15:43:36,060 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:43:36,291 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:43:51,468 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:43:51,880 - Framework -INFO - Started login has successfully!
+2022-03-30 15:43:56,932 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 15:44:03,076 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 15:44:05,984 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 15:44:07,203 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 15:44:07,983 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:44:07,986 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:44:10,932 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:44:11,213 - Framework -INFO - Started login has successfully!
+2022-03-30 15:44:16,798 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:44:16,811 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:44:24,792 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:44:25,188 - Framework -INFO - Started login has successfully!
+2022-03-30 15:44:30,254 - Framework -INFO - ******** Login Passed*********
+2022-03-30 15:44:45,915 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 15:57:42,351 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:57:42,539 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:57:45,517 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:57:45,835 - Framework -INFO - Started login has successfully!
+2022-03-30 15:57:50,892 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 15:57:57,137 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 15:57:58,990 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 15:57:59,966 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 15:58:00,641 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:58:00,644 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:58:02,714 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:58:02,993 - Framework -INFO - Started login has successfully!
+2022-03-30 15:58:08,048 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 15:58:08,579 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 15:58:08,582 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 15:58:11,331 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 15:58:11,694 - Framework -INFO - Started login has successfully!
+2022-03-30 15:58:16,759 - Framework -INFO - ******** Login Passed*********
+2022-03-30 15:58:33,001 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:27:31,267 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:27:31,439 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:27:34,243 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:27:34,599 - Framework -INFO - Started login has successfully!
+2022-03-30 16:27:39,647 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:27:44,539 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:27:47,217 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:27:48,334 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:27:48,940 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:27:48,960 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:27:51,934 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:27:52,163 - Framework -INFO - Started login has successfully!
+2022-03-30 16:27:57,213 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 16:27:57,740 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:27:57,743 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:27:59,722 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:28:00,213 - Framework -INFO - Started login has successfully!
+2022-03-30 16:28:05,289 - Framework -INFO - ******** Login Passed*********
+2022-03-30 16:28:20,879 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:32:26,678 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:32:26,888 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:32:29,151 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:32:29,458 - Framework -INFO - Started login has successfully!
+2022-03-30 16:32:34,512 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:32:41,281 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:32:43,260 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:32:44,169 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:32:44,763 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:32:44,768 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:32:46,749 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:32:47,002 - Framework -INFO - Started login has successfully!
+2022-03-30 16:32:52,051 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 16:32:58,278 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-30 16:33:02,208 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:33:02,457 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-30 16:33:04,027 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-30 16:33:04,121 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:33:04,749 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:33:04,751 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:33:06,665 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:33:06,925 - Framework -INFO - Started login has successfully!
+2022-03-30 16:33:11,985 - Framework -INFO - ******** Login Passed*********
+2022-03-30 16:33:27,889 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:33:45,605 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:33:45,791 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:33:47,944 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:33:48,229 - Framework -INFO - Started login has successfully!
+2022-03-30 16:33:53,280 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:33:57,988 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:33:59,597 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:34:00,411 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:34:01,013 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:34:01,029 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:34:03,004 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:34:03,265 - Framework -INFO - Started login has successfully!
+2022-03-30 16:34:08,315 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 16:34:14,670 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-30 16:34:18,732 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:34:18,897 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-30 16:34:20,366 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-30 16:34:20,412 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:34:21,068 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:34:21,075 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:34:23,568 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:34:23,862 - Framework -INFO - Started login has successfully!
+2022-03-30 16:34:28,918 - Framework -INFO - ******** Login Passed*********
+2022-03-30 16:34:44,929 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:43:06,975 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:43:07,218 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:43:09,050 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:43:09,363 - Framework -INFO - Started login has successfully!
+2022-03-30 16:43:14,413 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:43:19,359 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:43:21,270 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:43:22,126 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:44:43,003 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:44:43,153 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:44:45,344 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:44:45,647 - Framework -INFO - Started login has successfully!
+2022-03-30 16:44:50,696 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:44:55,895 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:44:57,531 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:44:58,425 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:44:59,078 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:44:59,082 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:45:01,299 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:45:01,531 - Framework -INFO - Started login has successfully!
+2022-03-30 16:45:06,580 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 16:45:12,862 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-30 16:45:16,825 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:45:17,061 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-30 16:45:18,648 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-30 16:45:18,698 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:46:56,823 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:46:56,988 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:46:59,216 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:46:59,599 - Framework -INFO - Started login has successfully!
+2022-03-30 16:47:04,651 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:47:09,298 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-30 16:47:10,951 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-30 16:47:11,962 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:47:12,635 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:47:12,641 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:47:14,534 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:47:14,773 - Framework -INFO - Started login has successfully!
+2022-03-30 16:47:19,823 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-30 16:47:26,201 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-30 16:47:30,203 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-30 16:47:30,420 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-30 16:47:32,173 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-30 16:47:32,259 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-30 16:47:32,883 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-30 16:47:32,889 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-30 16:47:34,827 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-30 16:47:35,026 - Framework -INFO - Started login has successfully!
+2022-03-30 16:47:40,086 - Framework -INFO - ******** Login Passed*********
+2022-03-30 16:47:55,434 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 14:29:02,264 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 14:29:02,413 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 14:29:20,292 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 14:29:20,553 - Framework -INFO - Started login has successfully!
+2022-03-31 14:29:25,621 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 14:29:40,202 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 14:29:49,994 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 14:29:54,217 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 14:29:54,791 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 14:29:54,792 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 14:30:09,730 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 14:30:09,960 - Framework -INFO - Started login has successfully!
+2022-03-31 14:30:15,033 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 14:30:27,252 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-31 14:30:31,853 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 14:30:31,980 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-31 14:30:34,169 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-31 14:30:34,232 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 14:30:34,838 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 14:30:34,840 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 14:30:37,740 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 14:30:37,994 - Framework -INFO - Started login has successfully!
+2022-03-31 14:30:43,080 - Framework -INFO - ******** Login Passed*********
+2022-03-31 14:30:58,964 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:09:47,218 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:09:47,393 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:09:49,819 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:09:50,074 - Framework -INFO - Started login has successfully!
+2022-03-31 15:09:55,179 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 15:09:59,861 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 15:10:01,911 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 15:10:02,852 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:10:03,466 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:10:03,469 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:10:05,739 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:10:05,949 - Framework -INFO - Started login has successfully!
+2022-03-31 15:10:11,038 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 15:10:17,764 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-31 15:10:21,916 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 15:10:22,029 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-31 15:10:23,726 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-31 15:10:23,823 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:10:24,524 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:10:24,531 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:10:26,972 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:10:27,181 - Framework -INFO - Started login has successfully!
+2022-03-31 15:10:32,306 - Framework -INFO - ******** Login Passed*********
+2022-03-31 15:10:47,717 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:44:52,294 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:44:52,398 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:44:55,602 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:44:55,901 - Framework -INFO - Started login has successfully!
+2022-03-31 15:45:01,006 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 15:45:13,621 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 15:45:43,337 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 15:45:49,167 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:45:50,051 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:45:50,061 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:46:08,997 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:46:09,243 - Framework -INFO - Started login has successfully!
+2022-03-31 15:46:14,309 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 15:46:55,894 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-31 15:48:03,502 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 15:48:03,617 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-31 15:48:07,511 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-31 15:48:07,571 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 15:48:08,208 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 15:48:08,213 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 15:48:24,997 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 15:48:25,287 - Framework -INFO - Started login has successfully!
+2022-03-31 15:48:30,426 - Framework -INFO - ******** Login Passed*********
+2022-03-31 15:48:53,067 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 18:59:11,091 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 18:59:11,269 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 18:59:13,686 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 18:59:14,031 - Framework -INFO - Started login has successfully!
+2022-03-31 18:59:19,087 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 18:59:24,338 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 18:59:26,988 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 18:59:28,236 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 18:59:28,880 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 18:59:28,883 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 18:59:39,229 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 18:59:39,434 - Framework -INFO - Started login has successfully!
+2022-03-31 18:59:44,480 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 18:59:57,724 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-31 19:00:07,437 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 19:00:07,554 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-31 19:00:11,197 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-31 19:00:11,245 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:00:11,920 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:00:11,926 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:00:20,819 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:00:21,057 - Framework -INFO - Started login has successfully!
+2022-03-31 19:00:26,112 - Framework -INFO - ******** Login Passed*********
+2022-03-31 19:01:00,620 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:17:12,774 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:17:12,936 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:17:35,622 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:17:35,963 - Framework -INFO - Started login has successfully!
+2022-03-31 19:17:41,012 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 19:18:10,475 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 19:19:05,897 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 19:19:14,260 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:19:14,868 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:19:14,871 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:19:57,897 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:19:58,102 - Framework -INFO - Started login has successfully!
+2022-03-31 19:20:03,150 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 19:20:08,731 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:20:08,733 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:20:32,226 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:20:32,498 - Framework -INFO - Started login has successfully!
+2022-03-31 19:20:37,554 - Framework -INFO - ******** Login Passed*********
+2022-03-31 19:21:09,535 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:22:09,280 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:22:09,479 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:22:11,711 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:22:12,014 - Framework -INFO - Started login has successfully!
+2022-03-31 19:22:17,063 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 19:22:21,806 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-03-31 19:22:23,833 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-03-31 19:22:24,655 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:22:25,282 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:22:25,294 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:22:27,248 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:22:27,468 - Framework -INFO - Started login has successfully!
+2022-03-31 19:22:32,517 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-03-31 19:22:39,777 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-03-31 19:22:43,931 - Framework -INFO - Ars Number has Entered successfuly!
+2022-03-31 19:22:44,074 - Framework -INFO - Clicked on Search Button successfuly!
+2022-03-31 19:22:45,611 - Framework -INFO - Verify No Cases found has successfuly!
+2022-03-31 19:22:45,662 - Framework -INFO - Browser closing browser has successfuly!
+2022-03-31 19:22:46,258 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-03-31 19:22:46,262 - Framework -INFO - Open Bridge URL has Successfully!
+2022-03-31 19:22:49,015 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-03-31 19:22:49,272 - Framework -INFO - Started login has successfully!
+2022-03-31 19:22:54,332 - Framework -INFO - ******** Login Passed*********
+2022-03-31 19:23:10,741 - Framework -INFO - Browser closing browser has successfuly!
+2022-04-01 11:49:01,253 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-04-01 11:49:01,365 - Framework -INFO - Open Bridge URL has Successfully!
+2022-04-01 11:49:06,348 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-04-01 11:49:06,663 - Framework -INFO - Started login has successfully!
+2022-04-01 11:49:11,741 - Framework -INFO - Ars Number has Entered successfuly!
+2022-04-01 11:49:23,887 - Framework -INFO - Ars Number Search Button has clicked on successfuly!
+2022-04-01 11:49:45,042 - Framework -INFO - Ars Number has clicked on successfuly!
+2022-04-01 11:49:47,435 - Framework -INFO - Browser closing browser has successfuly!
+2022-04-01 11:49:48,334 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-04-01 11:49:48,348 - Framework -INFO - Open Bridge URL has Successfully!
+2022-04-01 11:49:57,551 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-04-01 11:49:57,833 - Framework -INFO - Started login has successfully!
+2022-04-01 11:50:02,970 - Framework -INFO - Select Docs Quality role  successfuly!
+2022-04-01 11:50:10,344 - Framework -INFO - Clicked on Dashboard module has successfuly!
+2022-04-01 11:50:16,377 - Framework -INFO - Ars Number has Entered successfuly!
+2022-04-01 11:50:16,613 - Framework -INFO - Clicked on Search Button successfuly!
+2022-04-01 11:50:21,499 - Framework -INFO - Verify No Cases found has successfuly!
+2022-04-01 11:50:21,559 - Framework -INFO - Browser closing browser has successfuly!
+2022-04-01 11:50:22,382 - Framework -INFO - Launching browser Chrome Browser has Successfully!
+2022-04-01 11:50:22,400 - Framework -INFO - Open Bridge URL has Successfully!
+2022-04-01 11:50:32,823 - Framework -INFO - Providing Valid Login details have Successfully!
+2022-04-01 11:50:33,276 - Framework -INFO - Started login has successfully!
+2022-04-01 11:50:38,420 - Framework -INFO - ******** Login Passed*********
+2022-04-01 11:51:01,155 - Framework -INFO - Browser closing browser has successfuly!
